@@ -1,7 +1,7 @@
 # DESIGN_PROJECT-PD
 
 ### AIM:
-To implement and design synthesis and simulation for uart using cadence - genus and innovus.
+To implement and design synthesis and simulation for uart using cadence - genus and innovus
 
 ### TOOLS REQUIRED:
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
